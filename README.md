@@ -22,4 +22,4 @@
 
 ### 3. Mind Mapping 
 
-![Mind Map](picky.png)
+![Mind Map](Mahfil.png)
